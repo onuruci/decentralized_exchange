@@ -1,0 +1,19 @@
+GRF Token:
+
+0x7Ee3809B59d2Fa34F6641Bc7d279E12209C7060e
+
+https://testnet.snowtrace.io/address/0x7Ee3809B59d2Fa34F6641Bc7d279E12209C7060e#code
+
+
+RHN Token:
+
+0xf5a6D032209e60E6D7E52839fb954CF4c728Da0A
+
+https://testnet.snowtrace.io/address/0xf5a6D032209e60E6D7E52839fb954CF4c728Da0A#code
+
+
+Decentralized Exchange:
+
+0x9f73371e74639e42007395083f054d7B637c8Cd7
+
+https://testnet.snowtrace.io/address/0x9f73371e74639e42007395083f054d7B637c8Cd7#code
